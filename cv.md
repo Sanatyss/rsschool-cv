@@ -11,7 +11,3 @@
 ### I have worked as a field engineer in oil and gas industry, but now I want to become a software developer.
 ====
 
-
-
-
-
