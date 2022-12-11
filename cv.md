@@ -4,7 +4,7 @@
 ## Contact:
 ### Tel: +77082401042
 ### mail: sanat.esmaagambet@mail.ru
-### Telegram: sanatyss
+### Telegram: @sanatyss
 ====
 ## About myself
 ### Hello world! My name is Sanat, I am interested in Front End Development and that is my first step to learn.
