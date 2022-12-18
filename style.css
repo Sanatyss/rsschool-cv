@@ -1,1 +1,33 @@
-12123
+@font-face {
+    font-family: 'Chivo Mono';
+    src: url("assets/fonts/Chivo_Mono/ChivoMono-Italic-VariableFont_wght.ttf");
+    font-weight: 100;
+  }
+  @font-face {
+    font-family: 'Chivo Mono';
+    src: url("assets/fonts/Chivo_Mono/ChivoMono-VariableFont_wght.ttf");
+    font-weight: 700;
+  }
+
+
+
+ body{
+    border: 1px solid red;
+ }
+
+ html {
+    scroll-behavior: smooth; 
+  }
+
+ .nav-list {
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
+  }
+  .nav-list {
+    list-style: none;
+  }
+  .nav-link {
+    padding: 0 20px;
+    line-height: 50px;
+  }
